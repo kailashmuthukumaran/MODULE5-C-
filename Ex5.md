@@ -56,6 +56,6 @@ int main(){
 
 
 ## Result:
-Thus the program correctly implements FCFS Scheduling.
+Thus the program correctly implements FCFS Scheduling..
 
 
