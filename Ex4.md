@@ -46,7 +46,7 @@ int main()
 
 
 
-## Result:
+## Result:-
 
 The program successfully inserts five character elements into the stack using STL and displays them in LIFO (Last In First Out) order.
 
