@@ -88,7 +88,7 @@ int main()
 
 
 
-## Result:
+## Result:.
 The program successfully converts any valid postfix expression into its corresponding prefix expression using stack STL.
 
 
