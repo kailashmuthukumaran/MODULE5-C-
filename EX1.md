@@ -33,7 +33,7 @@ int main()
     cin>>n;
     cout<<"Size of the stack: "<<n<<endl;
     for(int i=0;i<n;i++){
-        cin>>str;
+        cin>>str;.
         stack.push(str);
     }
     while(!stack.empty()){
